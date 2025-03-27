@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Jo'Marion </h1>
 <h3 align="center">A passionate Computer Engineering student 🚀</h3>
 
 <p align="center">
@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Engineering student at **[Your University]**  
-- 🛠️ I love working on **[your favorite tech stack, e.g., Python, JavaScript, C++]**  
-- 📚 Currently learning **[current focus, e.g., React, Machine Learning]**  
-- 💡 Fun Fact: **[e.g., "I can solve a Rubik’s cube in under a minute!"]**  
-- 📫 How to reach me: **[your email or social links]**  
+- 🎓 Computer Engineering student at **University of South Carolina**  
+- 🛠️ I love working on **C++, Verilog, C**  
+- 📚 Currently learning ** Embeded C**  
+- 💡 Fun Fact: **I can solve a Rubik’s cube in under a minute!**  
+- 📫 How to reach me: **jomarionfordcampbell@gmail.com**  
 
 ---
 
@@ -38,8 +38,7 @@
 ---
 
 ### 🌟 Latest Projects  
-✅ **[Project Name 1](https://github.com/your-username/project1)** - Short project description  
-✅ **[Project Name 2](https://github.com/your-username/project2)** - Short project description  
+
 
 ---
 
@@ -67,5 +66,3 @@
 - Embed cool GIFs or memes 🎭  
 
 ---
-
-Would you like me to customize it further based on your skills, interests, and goals? 😃 🚀
